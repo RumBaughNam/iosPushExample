@@ -1,0 +1,8 @@
+{
+  "gcmKey": "83614190143",
+  "subject": "mailto:expoool@kakao.com",
+  "vapid": {
+    "public": "BFWuWbdE_hzrbne-0EKaDEl7gZr_lfoDp9_4Yz1TbhjyFXAazCZwGOGWkVbCKAPEiOg9oKerD8KlzpDXea45r8k",
+    "private": "7YCz_x-1uP0b_l98g-Zu1x7JqEPYNWWDo_ng1r6e2OQ"
+  }
+}
