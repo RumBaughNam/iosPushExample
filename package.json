@@ -23,7 +23,7 @@
     "web-push": "^3.5.0"
   },
   "script": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "homepage" : "https://rumbaughnam.github.io/iosPushExample/"
