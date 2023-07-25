@@ -19,6 +19,12 @@
     "colors": "^1.4.0",
     "config": "^3.3.7",
     "express": "^4.18.1",
+    "gh-pages": "^5.0.0",
     "web-push": "^3.5.0"
-  }
+  },
+  "script": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage" : "https://rumbaughnam.github.io/iosPushExample/"
 }
